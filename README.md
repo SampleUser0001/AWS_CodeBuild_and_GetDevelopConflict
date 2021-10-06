@@ -1,0 +1,2 @@
+# AWS_CodeBuild_and_GetDevelopConflict
+AWS CodeBuild実行時にdevelopブランチ間のコンフリクトを取得する。
